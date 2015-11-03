@@ -1,0 +1,23 @@
+name: Ashley
+favicon: null
+layout_spectrum: 0.01836653728969395
+typography_spectrum: 0.8950963288079947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5046582124195993
+  lightness: 0.012014123145490885
+  saturation: 0.5053935186006129
+  rhythmicContrast: 0.2191085412632674
+purpose: []
